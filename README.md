@@ -15,7 +15,7 @@ Hey 👋,Welcome
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gediyonee" alt="gediyonee" /></a> </p>
 
-- 👨‍💻 [Upwork](https://www.upwork.com/freelancers/~01beb6649c2616999e) 
+👨‍💻 [Upwork](https://www.upwork.com/freelancers/~01beb6649c2616999e) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
